@@ -7,17 +7,17 @@ Il est utile de se créer un dictionnaire si vous voulez poubelliser vos donnée
 ## Quelques exemples
 
 * Encoder en "garbageant" un fichier :
-  
-  garbager.py -e fichier.source -vfcr -s dico.txt -g fichier.a.ecraser 313 i 0
-  
+
+```garbager.py -e fichier.source -vfcr -s dico.txt -g fichier.a.ecraser 313 i 0```
+
 * décoder en utilisant un fichier garbage généré précédemment (la longueur étant à recopier du log de l'exécution initiale) :
-  
-  gabager.py -dvfcr -s dico.txt -g  fichier.ecrase 313 i 656
-  
+
+```gabager.py -dvfcr -s dico.txt -g  fichier.ecrase 313 i 656```
+
 * encoder directement dans un fichier :
-  
-  garbager.py -e fichier.entree -vfcr -s  dico.txt -o fichier.sortie
-  
+
+```garbager.py -e fichier.entree -vfcr -s  dico.txt -o fichier.sortie```
+
 * décoder directement un fichier généré par la commande précédente :
-  
-  garbager.py -d fichier.sortie -vfcr -s dico.txt -o fichier.original
+
+```garbager.py -d fichier.sortie -vfcr -s dico.txt -o fichier.original```
