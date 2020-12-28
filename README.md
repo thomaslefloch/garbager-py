@@ -1,7 +1,7 @@
 # garbager-py
-Script Python, pour "poubelliser" vos données et les masquer. Par le magazine "Pirate Mag'" HS n°2 (ACBM.com)
+Script Python, pour "poubelliser" vos données et les masquer. Par le magazine "Pirate Mag'" HS n°2 [Pirates Magazine HS2 (V40S) - ACBM.com](http://www.acbm.com/pirates/num_hs_02/index.html)
 
-Prend enc harge les arguments en ligne de commande. -h pour les lister (aide).
+Prend en charge les arguments en ligne de commande. -h pour les lister (aide).
 Il est utile de se créer un dictionnaire si vous voulez poubelliser vos données une fois l'encodage fait. 
 
 ## Quelques exemples
